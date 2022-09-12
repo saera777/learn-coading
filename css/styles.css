@@ -1,0 +1,20 @@
+body  {
+background-color: lightblue;
+  }
+
+h1{
+  color:#152D73;
+}
+
+h3{
+  color:#152D73;
+}
+
+
+hr {
+   border-style: none;
+   border-top-style: dotted;
+   border-color: black;
+   border-width: 2px;
+   width: 30%;
+}
